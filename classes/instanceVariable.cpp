@@ -6,9 +6,9 @@ class Fruits {
 };
 int main()
 {
-    Fruits fruits1, fruits2;
-    fruits1.Fruits = 40;
-    fruits2.Fruits= 70;
-    cout<<fruits1.Fruits<<", "<<fruits2.Fruits<<endl;
+    Fruits f1, f2;
+    f1.Fruits = 40;
+    f2.Fruits= 70;
+    cout<<f1.Fruits<<", "<<f2.Fruits<<endl;
     return 0;
 }
